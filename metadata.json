@@ -1,0 +1,5 @@
+{
+  "name": "Delivery Time Predictor",
+  "description": "An intelligent application that uses historical delivery data and AI to predict delivery times for new orders. Features data visualization and an address search for quick predictions.",
+  "requestFramePermissions": []
+}
